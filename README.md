@@ -32,9 +32,6 @@ Improve the visual appearance of the app.
 Add more screens to the app.
 The app is still under development. There are a number of features that I plan to add to the app in the future. I also plan to improve the visual appearance of the app and to add more screens to the app.
 
-Author
-This project was created by [brave881].
-
 License
 This project is licensed under the MIT License.
 
